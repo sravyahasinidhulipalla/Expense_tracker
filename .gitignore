@@ -17,6 +17,10 @@ target/
 .vscode/
 .idea/
 *.iml
+.project
+
+# Archives
+*.zip
 
 # Logs
 *.log
